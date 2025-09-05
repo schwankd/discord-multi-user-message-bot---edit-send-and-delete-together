@@ -126,4 +126,6 @@ https://discord.com/oauth2/authorize?client_id=CLIENT_ID&permissions=2147493888&
 ```
 
 Damit hat der Bot **genau die Rechte, die er für deine Funktionen braucht** – nicht mehr und nicht weniger.
+kleiner disclaimer: ich hab das ding zu gro0en teilen mit chatgpt geschrieben bzw. schreiben lassen. Bei mir funktioniert alles super aber seid euch dessen bewusst. 
+Das ganze dient als kleine Lösung für unseren Schuldiscord und ist nicht für irgend ne Art großartigen production use gedacht.
 
